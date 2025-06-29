@@ -30,6 +30,20 @@ export default function Home() {
           {/* Links */}
           <div className="space-y-4">
             <a 
+              href="https://befitting-octagon-390.notion.site/22109928af8a805cbaf5e5dd47457cd8" 
+              target="_blank"
+              className="flex items-center justify-center w-full font-semibold py-4 px-6 rounded-lg border-2 transition-all duration-200 hover:scale-105"
+              style={{ 
+                backgroundColor: '#7732D9', 
+                color: '#00FF00',
+                borderColor: '#7732D9',
+                fontFamily: 'Silo Pixel, monospace'
+              }}
+            >
+              Join AIRWAVE~STATION Waiting List
+            </a>
+            
+            <a 
               href="https://www.instagram.com/gz00m/" 
               target="_blank"
               className="flex items-center justify-center w-full font-semibold py-4 px-6 rounded-lg border-2 transition-all duration-200 hover:scale-105"
