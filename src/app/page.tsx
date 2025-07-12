@@ -44,6 +44,20 @@ export default function Home() {
             </a>
             
             <a 
+              href="https://gzoom.bandcamp.com/track/go-slo" 
+              target="_blank"
+              className="flex items-center justify-center w-full font-semibold py-4 px-6 rounded-lg border-2 transition-all duration-200 hover:scale-105"
+              style={{ 
+                backgroundColor: '#00D200', 
+                color: '#1E1E1E',
+                borderColor: '#00D200',
+                fontFamily: 'Silo Pixel, monospace'
+              }}
+            >
+              $1 = 333 streams
+            </a>
+            
+            <a 
               href="https://www.instagram.com/gz00m/" 
               target="_blank"
               className="flex items-center justify-center w-full font-semibold py-4 px-6 rounded-lg border-2 transition-all duration-200 hover:scale-105"
